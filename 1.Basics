@@ -1,0 +1,8 @@
+print("Hello world")
+name="Sangar is my name"
+print(name.upper())  #'Changes lowercase to upper case'
+print(name.lower())  #'Changes uppercase to lower case'
+print(name.title())  # 'Changes first letter of each word to upper case'
+print(name.replace("Sangar","Karthick"))  #'Replaces a string with given string'
+print(name.strip())  #'Removes spaces, new line, tabs before and end of a line
+print(name.swapcase())    #Changes upper case to lower & Viceversa
